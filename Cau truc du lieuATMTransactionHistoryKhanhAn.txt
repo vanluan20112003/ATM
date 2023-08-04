@@ -1,0 +1,4 @@
+Loai giao dich, Thong tin, So tien, Thoi gian
+Nhan tien,Luan12345,100000,11:30 4/8/2023
+Nhan tien,Luan12345,200000,11:38 4/8/2023
+Nhan tien,Luan12345,100000,11:42 4/8/2023

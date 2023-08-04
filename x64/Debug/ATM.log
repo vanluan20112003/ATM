@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Cau truc du lieu\ATM\ATM\Source.cpp(26,30): warning C4129: 'C': unrecognized character escape sequence
+D:\Cau truc du lieu\ATM\ATM\Source.cpp(26,30): warning C4129: 'A': unrecognized character escape sequence
+D:\Cau truc du lieu\ATM\ATM\Source.cpp(26,30): warning C4129: 'T': unrecognized character escape sequence
+D:\Cau truc du lieu\ATM\ATM\Source.cpp(27,30): warning C4129: 'C': unrecognized character escape sequence
+D:\Cau truc du lieu\ATM\ATM\Source.cpp(27,30): warning C4129: 'A': unrecognized character escape sequence
+  ATM.vcxproj -> D:\Cau truc du lieu\ATM\x64\Debug\ATM.exe

@@ -1,0 +1,5 @@
+ID: KhanhAn
+PIN: 12345
+Ten tai khoan: 
+So du: 100000.00 VND
+Loai tien te: VND

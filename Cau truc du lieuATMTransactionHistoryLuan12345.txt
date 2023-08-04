@@ -1,0 +1,8 @@
+Loai giao dich, Thong tin, So tien, Thoi gian
+Cap tien,50000,11:2 4/8/2023
+Cap tien,1e+06,11:26 4/8/2023
+Rut tien,50000,11:29 4/8/2023
+Chuyen tien,KhanhAn,100000,11:30 4/8/2023
+Rut tien,100000,11:37 4/8/2023
+Chuyen tien,KhanhAn,200000,11:38 4/8/2023
+Chuyen tien,KhanhAn,100000,11:42 4/8/2023
